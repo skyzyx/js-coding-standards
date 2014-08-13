@@ -16,7 +16,6 @@ If you want to fork this and make edits for yourself or your team, please go rig
 * [SPELLING.md](SPELLING.md)
 * [NAMING.md](NAMING.md)
 * [WHITESPACE-ALIGNMENT.md](WHITESPACE-ALIGNMENT.md)
-* [CLASSES-METHODS.md](CLASSES-METHODS.md)
 * [LANGUAGE-PATTERNS.md](LANGUAGE-PATTERNS.md)
 
 ## License
