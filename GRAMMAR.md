@@ -568,17 +568,17 @@ function test() {
 
 ## Visibility
 
-* JavaScript doesn't have _real_ `public` or `private` members, but they can be emulated with scoping and closures.
+JavaScript doesn't have _real_ `public` or `private` members, but they can be emulated with scoping and closures.
 
-  ```javascript
-  ;(function() {
-      var privateMethod = function() {};
+```javascript
+;(function() {
+    var privateMethod = function() {};
 
-      return {
-          this.publicMethod = function() {};
-      };
-  })();
-  ```
+    return {
+        this.publicMethod = function() {};
+    };
+})();
+```
 
 ## `==` or `===`
 
