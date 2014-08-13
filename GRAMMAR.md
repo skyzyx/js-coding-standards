@@ -28,16 +28,18 @@
 * All control structures use braces, even if they’re optional.
 
   ```javascript
+  var abc;
+
   // Bad
-  if (condition) $abc = 'abc';
+  if (condition) abc = 'abc';
 
   // Bad
   if (condition)
-      $abc = 'abc';
+      abc = 'abc';
 
   // Good
   if (condition) {
-      $abc = 'abc';
+      abc = 'abc';
   }
   ```
 
@@ -53,6 +55,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
   if () {}
   else () {}
   function example() {}
+  var example = function() {}
   ```
 
 * Opening parentheses for control structures MUST NOT have a space after them, and closing parentheses for control structures MUST NOT have a space before.
