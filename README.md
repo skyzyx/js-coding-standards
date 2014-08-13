@@ -1,5 +1,7 @@
 # Parman JavaScript Coding Standards
 
+DRAFT: This is currently an in-progress draft document.
+
 This guide is an attempt to precisely and thoroughly document all of the idiosyncrasies around how I write JavaScript code, focusing primarily on style, and a little on structure.
 
 ## Disclaimer
@@ -10,13 +12,10 @@ If you want to fork this and make edits for yourself or your team, please go rig
 
 ## Sections
 
-* [EDITOR-SETTINGS.md](EDITOR-SETTINGS.md)
+If you want to skip reading the guidelines, and begin applying them immediately, see [LINTING.md](LINTING.md).
+
 * [GRAMMAR.md](GRAMMAR.md)
-* [COMMENTS.md](COMMENTS.md)
-* [SPELLING.md](SPELLING.md)
-* [NAMING.md](NAMING.md)
-* [WHITESPACE-ALIGNMENT.md](WHITESPACE-ALIGNMENT.md)
-* [LANGUAGE-PATTERNS.md](LANGUAGE-PATTERNS.md)
+* [PERFORMANCE.md](PERFORMANCE.md)
 
 ## License
 My intention is to release all rights to this documentation and make it available under the Public Domain. Unfortunately, in the U.S. it's not quite that cut-and-dry. So, I am dual-licensing this work under [CC0](LICENSE-CC0) and the [Unlicense](LICENSE-UNLICENSE). You can choose whichever license you would prefer to adhere to.
