@@ -12,7 +12,7 @@ If you want to fork this and make edits for yourself or your team, please go rig
 
 ## Sections
 
-If you want to skip reading the guidelines, and begin applying them immediately, see [LINTING.md](LINTING.md).
+If you want to skip reading the guidelines, and begin applying them immediately, see [LINTING.md](LINTING.md) (or just grab [.jshintrc](.jshintrc)).
 
 * [GRAMMAR.md](GRAMMAR.md)
 * [PERFORMANCE.md](PERFORMANCE.md)
